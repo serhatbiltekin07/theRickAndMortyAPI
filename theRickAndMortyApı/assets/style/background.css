@@ -1,0 +1,19 @@
+.bg-white {
+  background-color: var(--white);
+}
+
+.main {
+  padding-top: 2px;
+}
+.arkaPlan {
+  display: flex;
+  position: relative;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  -webkit-box-pack: center;
+  -webkit-box-align: center;
+  margin-bottom: 90px;
+  margin-top: 70px;
+}

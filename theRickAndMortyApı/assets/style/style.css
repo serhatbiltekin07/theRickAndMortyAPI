@@ -1,0 +1,82 @@
+body {
+  font-family: "Prompt", sans-serif;
+}
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border-bottom: 1px solid var(--white);
+  padding-right: 26px;
+  padding-left: 0px;
+}
+
+.logo {
+  padding: 20px;
+  width: 40px;
+}
+
+.nav {
+  display: flex;
+  align-items: center;
+}
+.ul {
+  display: flex;
+  margin-right: 31.5px;
+  /* list-style: none; */
+}
+.ul li {
+  margin-right: 20px;
+  font-size: 18px;
+  font-weight: 700;
+}
+.ul a {
+  text-decoration: none;
+  color: var(--background);
+}
+.ul a:hover {
+  color: var(--numaric);
+}
+.baslik {
+  z-index: 1;
+  margin: 0px;
+  font-weight: 900;
+}
+.container {
+  background-color: var(--backgroundİmages);
+  display: flex;
+  padding: 10rem 0px;
+  align-items: center;
+  justify-content: center;
+}
+.card-container .row {
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: 20px;
+}
+.characterCard {
+  margin: 10px;
+  border-radius: 8px;
+  flex: 1 1;
+  box-shadow: 0 4px 8px var(--punctuation);
+  overflow: hidden;
+  max-width: 300px;
+  background-color: var(--backgroundİmages);
+}
+.characterImage img {
+  width: 100%;
+  height: auto;
+}
+.characterInfo {
+  padding: 10px;
+}
+.characterInfo h2 {
+  margin: 0 0 10px 0;
+  color: var(--white);
+}
+.characterInfo h2:hover {
+  color: var(--numaric);
+}
+.characterInfo p {
+  color: var(--white);
+  margin: 0;
+}

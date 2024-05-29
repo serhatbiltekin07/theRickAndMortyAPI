@@ -1,0 +1,99 @@
+@font-face {
+  font-family: "Prompt";
+  src: url(./Prompt-Thin.ttf), local("Prompt Thin");
+  font-weight: 100;
+}
+@font-face {
+  font-family: "Prompt";
+  src: url(./Prompt-ThinItalic.ttf), local("Prompt-ThinItalic");
+  font-weight: 100;
+  font-style: italic;
+}
+@font-face {
+  font-family: "Prompt";
+  src: url(./Prompt-ExtraLight.ttf), local("ExtraLight");
+  font-weight: 200;
+}
+@font-face {
+  font-family: "Prompt";
+  src: url(./Prompt-ExtraLightItalic.ttf), local("ExtraLightItalic");
+  font-weight: 200;
+  font-style: italic;
+}
+@font-face {
+  font-family: "Prompt";
+  src: url(./Prompt-Light.ttf), local("Light");
+  font-weight: 300;
+}
+@font-face {
+  font-family: "Prompt";
+  src: url(./Prompt-LightItalic.ttf), local("LightItalic");
+  font-weight: 300;
+  font-style: italic;
+}
+@font-face {
+  font-family: "Prompt";
+  src: url(./Prompt-Regular.ttf), local("Regular");
+  font-weight: 400;
+}
+@font-face {
+  font-family: "Prompt";
+  src: url(./Prompt-Italic.ttf), local("Italic");
+  font-weight: 400;
+  font-style: italic;
+}
+@font-face {
+  font-family: "Prompt";
+  src: url(./Prompt-Medium.ttf), local("Medium");
+  font-weight: 500;
+}
+@font-face {
+  font-family: "Prompt";
+  src: url(./Prompt-MediumItalic.ttf), local("MediumItalic");
+  font-weight: 500;
+  font-style: italic;
+}
+@font-face {
+  font-family: "Prompt";
+  src: url(./Prompt-SemiBold.ttf), local("SemiBold");
+  font-weight: 600;
+}
+@font-face {
+  font-family: "Prompt";
+  src: url(./Prompt-SemiBoldItalic.ttf), local("MediumItaliSemiBoldItalicc");
+  font-weight: 600;
+  font-style: italic;
+}
+@font-face {
+  font-family: "Prompt";
+  src: url(./Prompt-Bold.ttf), local("Bold");
+  font-weight: 700;
+}
+@font-face {
+  font-family: "Prompt";
+  src: url(./Prompt-BoldItalic.ttf), local("BoldItalic");
+  font-weight: 700;
+  font-style: italic;
+}
+@font-face {
+  font-family: "Prompt";
+  src: url(./Prompt-ExtraBold.ttf), local("ExtraBold");
+  font-weight: 800;
+}
+@font-face {
+  font-family: "Prompt";
+  src: url(./Prompt-ExtraBoldItalic.ttf), local("ExtraBoldItalic");
+  font-weight: 800;
+  font-style: italic;
+}
+@font-face {
+  font-family: "Prompt";
+  src: url(./Prompt-Black.ttf), local("Black");
+  font-weight: 900;
+}
+@font-face {
+  font-family: "Prompt";
+  src: url(./Prompt-BlackItalic.ttf), local("BlackItalic");
+  font-weight: 900;
+  font-style: italic;
+}

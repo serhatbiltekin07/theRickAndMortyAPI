@@ -1,0 +1,19 @@
+:root {
+  --white: #ffffff;
+  --property: #ff79c6;
+  --piper: #c75323;
+  --numaric: #ff9800;
+  --string: #4cff8f;
+  --keyword: #66d9ef;
+  --punctuation: #abb2bf;
+  --background: #202329;
+  --radius: 6px;
+  --inline-background: #1b1f230d;
+  --inline-color: #476582;
+  --tranparent: #0000ffff;
+  --backgroundİmages: rgb(32, 35, 41);
+
+  --roboto: "Roboto", sans-serif;
+
+  --transition: all 0.3s ease-out;
+}
